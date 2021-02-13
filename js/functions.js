@@ -131,7 +131,7 @@ function adjustWordsPosition() {
 
 function adjustCodePosition() {
 	$('#code').css("margin-top", ($("#garden").height() - $("#code").height()) / 5);
-	$('#code').css("margin-left", $("#garden").position().left - 500);
+	$('#code').css("margin-left", $("#garden").position().left - 600);
 }
 
 function showLoveU() {
